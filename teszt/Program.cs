@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace teszt
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.WriteLine("Hello Wilág");
 
 
 
-            Console.ReadKey();
+
         }
     }
 }
